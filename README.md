@@ -14,5 +14,5 @@ The report is attached in this repo as: PR1_Sensing_Sid_.pdf
 
 Sample result image can be seen below:
 
-![Image Description][31.png]
-https://github.com/Siddarth-M/Color-Segmentation-Stop-Sign-Detection/blob/master/31.png?raw=true
+![Image Description](31.png)
+
