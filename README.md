@@ -11,3 +11,7 @@ detection. The effectiveness of the methods used are observed
 by experimentation, discussed and the results are presented.
 
 The report is attached in this repo as: PR1_Sensing_Sid_.pdf
+
+Sample result image can be seen below:
+
+![Image Description][31.jpg]
